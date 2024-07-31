@@ -2,9 +2,11 @@
 <h3 align="center">Enthusiastic Software Developer</h3>
 
 # 🧔🏻‍♂️ About Me:
--  
-- 📫 **How to reach me -** lakshaybyte@gmail.com
-- ⚡ **Fun Fact -** Leatherback turtles are the largest turtle🐢 species in the world.<br>
+- 👨‍💼 **Open to Work**.
+- 📫 **Reach Me at -** lakshaybyte@gmail.com
+- ⌨️ **Typing Speed -** 80 words per minute
+- ✨ **Hobbies -** Cricket, Football, Volleyball, Badminton.
+- ⚡ **Fun Fact -** 🐢Leatherback turtles are the largest turtle species in the world🐢<br>
 
 
 # 💻 Tech Stack:
@@ -17,8 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lakshay010-1&theme=github_dark&hide_border=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay010-1&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-![snake gif](https://github.com/Lakshay010-1/Lakshay010-1/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
